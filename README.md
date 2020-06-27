@@ -1,5 +1,5 @@
 # Ransomware
-<img src="http://uupload.ir/files/sba_bigstock--186749755.jpg"
+<img src="http://uupload.ir/files/sba_bigstock--186749755.jpg">
 سورس باج افزار اندروید 
 
 رمز کنونی برنامه :[666]
