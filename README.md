@@ -11,4 +11,4 @@ layout > main
 </code>
 [Telegram Channel](https://t.me/FoxTEam01) 
 
-Donate: https://idpay.ir/lilmos
+سفارش ساخت: https://t.me/lil_mos
